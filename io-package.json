@@ -1,7 +1,7 @@
 {
     "common": {
         "name": "find-my-iphone",
-        "version": "0.2.17",
+        "version": "0.3.0",
         "title": "Find my iPhone",
         "news": {
             "0.2.17": {
